@@ -25,8 +25,9 @@ Once the Kubernetes template is available it is possible to start instantiating 
 
 [import]: https://ovedou.blogspot.it/2014/03/importing-glance-images-as-ovirt.html
 [install]: https://www.ovirt.org/documentation/quickstart/quickstart-guide/#create-virtual-machines
-[generate a template]: https://www.ovirt.org/documentation/quickstart/quickstart-guide/#using-templates
-[install the ovirt-guest-agent]: https://www.ovirt.org/documentation/how-to/guest-agent/install-the-guest-agent-in-fedora/
+[generate a template]: https://www.ovirt.org/documentation/vmm-guide/chap-Templates.html#creating-a-template
+[install the ovirt-guest-agent]: https://www.ovirt.org/documentation/vmm-guide/chap-Installing_Linux_Virtual_Machines.html#installing-the-guest-agents-and-drivers-on-enterprise-linux
+[install the system container]: https://github.com/projectatomic/atomic-system-containers/blob/master/USAGE.md
 
 ## Using the oVirt Cloud Provider
 
